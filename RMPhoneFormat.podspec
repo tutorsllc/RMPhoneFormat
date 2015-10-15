@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "RMPhoneFormat"
-  s.version      = "0.0.2.2"
+  s.version      = "0.0.2.3"
   s.summary      = "A simple to use class for formatting phone numbers that uses the same exact formatting as the contacts app."
   s.homepage     = "https://github.com/rmaddy/RMPhoneFormat"
   s.license      = 'BSD'
